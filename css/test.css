@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+
+}
+h1{
+		font-size: 30px;
+		color: teal;
+	}
+
+	h2{
+		font-size: 50px;
+		color: lightsalmon;
+	}
+
+	.big{
+		font-size: 60px;
+
+	}
+
+	.small{
+		text-transform: uppercase;
+	}
+
+	.big.small{
+		color: darkred;
+	}
+
+	h1 span{
+		color: darkmagenta;
+	}
